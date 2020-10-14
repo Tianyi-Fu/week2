@@ -7,7 +7,7 @@ animal = input("Enter an animal: ")
 object0 = input("Name a object: ")
 animal2 = input("Enter an animal with tusks:")
 animal3 = input("Enter an animal with horns:")
-animal4 = input("Enter an animal with heels: ")
+animal4 = input("Enter an animal with heels:")
 
 # this is the story. it is made up of strings and variables.
 # the \ at the end of each line let's the computer know our string is a long one
