@@ -1,5 +1,5 @@
 # let the user know what's going on
-print ("Answer the questions below to play.")
+print ("Answer the questions below to start the story.")
 print ("-----------------------------------")
 
 # variables containing all of your story info
