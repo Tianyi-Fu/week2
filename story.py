@@ -21,7 +21,7 @@ story = "A " + animal + " had come to the end of his days. " \
   "When they saw that he was going to die, they thought to themselves, Now is the time to pay him back." \
   "So the "   + animal2 + " came up and rushed at him with his tusks. Then a"+ animal3 +" gored him with his horns."  \
 "The "+animal+" still lay helpless before them."\
-" So the " + animal4 + "  felt quite safe. He turned his tail to the lion and kicked up his heels into his face." \
+" So the " + animal4 + "  felt quite safe. He turned his tail to the"+animal+" and kicked up his heels into his face." \
 "This is a double death."\
   " growled the " + animal + "."
 
